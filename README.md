@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/9qTRvdyhdpAAAAAd/thorfinn-vinland-saga.gif" width="400">
+  <img src="https://media1.tenor.com/m/9qTRvdyhdpAAAAAd/thorfinn-vinland-saga.gif" width="200">
 </p>
 
 # Selam, ben Arda.
