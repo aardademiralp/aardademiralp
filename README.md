@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/zO2xC45di4IAAAAd/tomuda.gif" width="400">
+  <img src="https://media1.tenor.com/m/g9k1EmOpdVYAAAAd/bc.gif" width="400">
 </p>
 
 # Selam, ben Arda.
